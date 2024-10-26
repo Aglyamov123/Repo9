@@ -1,0 +1,26 @@
+{
+  "name": "Mary Poole",
+  "age": 47,
+  "address": {
+    "street": "Sari Center",
+    "city": "Uguvijoc",
+    "state": "WV",
+    "zip": "12414"
+  },
+  "contact": {
+    "phone": "(988) 710-5041",
+    "servicePhone": "800928223"
+  },
+  "birthday": "1979-09-22T06:08:08.572Z",
+  "ip": "219.69.118.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Efaba kuvac vuhugcu dup diz juwi fedito ilesodsuz se rofuvta tow gu lukloj ve raoguvi cefov. Vogam dujol ru wubijeji por bovlagmi uci zogtov ziacce kefaf kuwuj ruhi ka hohetos. Bucekawo zef loga fof mohnu ejamu julascu ejif owa fiwhom japfoze jafas azo ridzevvuz sa buhdo heaba cos. Kastimuwi haiwi jupilkif ceh bu zoofineh pa voomu ifipat liw ri fugbal le cemnop rajaju anboome ge. Mibfepaf iw bul tehdetipi sikbit as ma gohro sugcotbip ne luteboeb sa diuloef gebdi.",
+    "bio": "Elu sutnohah ideaguju najoede sadbihvi vuvu fu etucivic neeva og upli itdewla pudejoil ketuwa itu hu eve. Homo irzoldus bumsov elfug javozto zu osokot elsot or vum tedonuron poca odhocov bibkitef. Davveg gilso gavpuz bam hij hi zihvus nam uriagipu hu vav kebered. Ekohgul vehitil abaladli pemrosi lu kufic ijma tapkog viw emegagguw mogimuf beto."
+  },
+  "apiKey": "cb7155edc146578592b368fa44d103dec5249235ee5524a160a6a9d6d7427431",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
