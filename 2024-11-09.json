@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Rowe",
+  "age": 20,
+  "address": {
+    "street": "Vijigu Court",
+    "city": "Omasihi",
+    "state": "IA",
+    "zip": "71500"
+  },
+  "contact": {
+    "phone": "(600) 792-1879",
+    "servicePhone": "800661699"
+  },
+  "birthday": "1959-03-12T08:33:25.069Z",
+  "ip": "197.56.188.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Bek po zi reez dudik be div ef siklu awsuwfe rezol oti zi fihfeaw nuhewlab pajer wewoz haajimu. Miju rimkobej ni ni hec na mimma me ome wenwusuf ugo aguwjac wid. Odma lagmivren nevati cap okacwov hosgid rakrebgor fapezi ojujo zawve uned amu bazzoheh wajfe sijbas dofut ebvudmum asawapil.",
+    "bio": "Ja verewges rarob dilpibca ulwi ditezmam cuvuh dubihfo ruhci kakevod le nobe bemajo von rurso. Povtom zefvupuc bihe ahiwe rovog uneja him tonupsan heut lusmobca vecza parfu na feme midlam ubu suz. To tevlo awoaru pu dejgopbad uror vok redopo rahhed zos don jaza mal par lem."
+  },
+  "apiKey": "710c25d64e76edec6a31fa491ad674119faab6199d407f6c87fac54dfe9a94f4",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
