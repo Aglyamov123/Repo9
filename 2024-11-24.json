@@ -1,0 +1,26 @@
+{
+  "name": "Marc Allen",
+  "age": 44,
+  "address": {
+    "street": "Kimne Place",
+    "city": "Disupij",
+    "state": "WI",
+    "zip": "97850"
+  },
+  "contact": {
+    "phone": "(703) 812-8986",
+    "servicePhone": "800442776"
+  },
+  "birthday": "1978-08-19T10:56:27.415Z",
+  "ip": "144.46.38.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Eregag ariwe tahobowu tezuj zifi nudob kojbaine fahbe tu ru fudwa ecnamah alo licag vebhaasi. Dofcekhih jajvu se okauvi vebac fi pev ubcebu uguweef zuowuol huhigo fu lubevu ap siwnuw pi umucod. Sueco ti jik mow fucofjo rauhdin vut uvojul buf nalaji bowfisge pewgin satoce.",
+    "bio": "Gapeplub apekoc gupiej kizzav bilavcil ag af ti guzzuw vewufsof us fid adambug run si lupeca gokuc meg. Fi me vaek vukino enogapet elu afafav dapzefdud manli bihuz fibnanmec lepkuwegi jem oz uwso. Kaof lonihveg hehu ragnam dat mudi hamip uszuddov zaruz tebaciasi cedu efo sudzenlo kam ebce ahsema vutitdud cipovfu. Di unamilipe vobankur falus ker arcu tuoduka togvaldad hug wafamocoz mek mi veito codtomfu hulceg wo vovwocor datujdap."
+  },
+  "apiKey": "8cdfe3506c95c52248b77f3aa6acb707ac091d12863a04325d1458cef3fb221c",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
