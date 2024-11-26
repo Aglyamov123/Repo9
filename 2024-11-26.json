@@ -1,0 +1,26 @@
+{
+  "name": "Maggie Hoffman",
+  "age": 28,
+  "address": {
+    "street": "Muhpo Avenue",
+    "city": "Ruohuawe",
+    "state": "ID",
+    "zip": "32652"
+  },
+  "contact": {
+    "phone": "(961) 540-8872",
+    "servicePhone": "800456281"
+  },
+  "birthday": "1986-07-10T12:28:31.433Z",
+  "ip": "45.218.124.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Win wikacoco pimesewe pe hi izanultus uhabi li ho decukup bozoz momtub zof. Loilurun ugjeg to cej daw iwiwab je ecocasu gu et ta jen ji rubaz uduovafuk. Japoh vag jos doecu dephaj be gaarha rijrac ipe onobejle powokdug al tajfeer.",
+    "bio": "Nalsec jisjunteh atotubow jeca udohusa diwurzi foorofi epeaw icanavo efmun pozpovso eznoeh bira peben. Jog aporu ucinower limesbi bulnasi sospeti tagah ked kojes jasevlip cab muwurtev guvefew acuzu dinfo tusabru. Fuc tis itjizkom uk isgudi wuok wi eno hub kewcoz zokebe oveitu me tu ot."
+  },
+  "apiKey": "11dbcdbe94e3cc8a28bc01437dd6d7c5a1c3c9e00f15875db2708ff5d7982034",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
