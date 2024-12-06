@@ -1,0 +1,26 @@
+{
+  "name": "Loretta McCormick",
+  "age": 33,
+  "address": {
+    "street": "Nizvet Square",
+    "city": "Pomipo",
+    "state": "NE",
+    "zip": "48468"
+  },
+  "contact": {
+    "phone": "(687) 649-6149",
+    "servicePhone": "800444245"
+  },
+  "birthday": "1982-01-18T07:21:31.852Z",
+  "ip": "21.73.136.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Oledzi jibuvedu go ifa natgopi kubudcu huco zo min wikof monwep se. Tivap co nesobazi gi kamu devom anere fi uh refvus kujel liereul pulwuc acnina vihekeala. Juujebi ve ti ura jinenoj jormuj lebkeje keun kuduhwi tufogep ur jebdil me medmubcep emeuwuafi figwikmap.",
+    "bio": "Kavekewi egho uz pi dic jussa cogatze cugaduzo kihekpo igdowi zisser uriofnij ejpus. Mecte haizhu kuso pa fe tekek remusi biapivu ilehe vov eli kance ceit ad. Eki fev ati sitoc nerak idcehzi lashev liz fahlite zinis wadu be fivduwzoc zotlis macis vos tohevoni foh."
+  },
+  "apiKey": "9d3aa9d35b1f3b2a05fec6f02b0a2995e1fa3fb659b2bb9081fd8c96fa2bb8c0",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
