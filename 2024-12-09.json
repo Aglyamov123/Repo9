@@ -1,0 +1,26 @@
+{
+  "name": "Ethel Barnes",
+  "age": 41,
+  "address": {
+    "street": "Tadipi Avenue",
+    "city": "Zaonfac",
+    "state": "KY",
+    "zip": "78635"
+  },
+  "contact": {
+    "phone": "(357) 932-7781",
+    "servicePhone": "800945866"
+  },
+  "birthday": "1965-06-20T04:10:04.234Z",
+  "ip": "89.11.90.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuk etzokhi botjos kev un di ru oriste eno beah merbo zejo misawi vurvima gelsevi tehti sirvakco. Ko wolcus ta hopsoha bobani nojowbaf jo lejvi pamiw gekuru takje bipuhebum komebca du. Eveanome osozef luuggu lagvej fikapi wiah citdilmo avba cohewuwa kazehivi to kaf ju ha ihodognu tu ilo.",
+    "bio": "Falahe za fehvul modlusri ero parne wupofi gudfohup ru dulrar umefubic fosjemuf ivi. Guc udsi oselita wetwe hi iw onzu fusig biabhap fuw siisal gikim bojiref tesumovi nudma toj fafzuri. Puprah nale le cisabfi kum sepiv utulufof vozvu maesewi zam naffuk fesla. Lekfom zel biwu bibepek zoopino doetupe atpuupe nugziduf jodase vilogmit zajfifdo wopog pek."
+  },
+  "apiKey": "288d85b5c27197932e83ab492f8e8ad570a982d650caa00aa0565f6f12128d9e",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
