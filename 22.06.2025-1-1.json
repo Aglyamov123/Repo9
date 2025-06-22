@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Carter",
+    "age": 61,
+    "address": {
+        "street": "Jacqueline Gateway",
+        "city": "Lake Cherylton",
+        "state": "Texas",
+        "zip": "10403"
+    },
+    "contact": {
+        "phone": "9873544962",
+        "servicePhone": "800885148"
+    },
+    "birthday": "1964-10-12",
+    "ip": "62.225.221.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening anything attorney quickly ever surface.\nArrive program money everyone condition much part. Left president sport Democrat speech.",
+        "bio": "Develop ask its direction TV like. Mention everything start loss build."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
