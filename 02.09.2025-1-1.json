@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Ortega",
+    "age": 45,
+    "address": {
+        "street": "Daniel Plaza",
+        "city": "Lake Jessica",
+        "state": "Arkansas",
+        "zip": "88886"
+    },
+    "contact": {
+        "phone": "+1-932-389-2465x524",
+        "servicePhone": "800304712"
+    },
+    "birthday": "1980-28-12",
+    "ip": "18.210.96.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Serious little other crime environmental.\nFilm church fight audience very charge.\nOr picture push fact level. Story thought south car agreement up.",
+        "bio": "Experience field wait stop minute. Feel better carry young before. Health improve whom Mrs environmental.\nHot the kitchen audience pressure responsibility. Best tough PM."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
