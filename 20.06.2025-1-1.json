@@ -1,0 +1,25 @@
+{
+    "name": "Charles Howell",
+    "age": 47,
+    "address": {
+        "street": "Cook Plaza",
+        "city": "South Shannon",
+        "state": "Delaware",
+        "zip": "65461"
+    },
+    "contact": {
+        "phone": "739.475.2643x388",
+        "servicePhone": "800638461"
+    },
+    "birthday": "1978-11-09",
+    "ip": "147.142.190.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional child service provide very. Author hope instead poor. Staff season yes.\nItself put between matter environmental along. Region free ground person. Already song support Democrat add.",
+        "bio": "Catch every around push friend force. Particular my PM. Line development standard method prepare."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
