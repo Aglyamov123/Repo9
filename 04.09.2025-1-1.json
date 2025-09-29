@@ -1,0 +1,25 @@
+{
+    "name": "Carl Rogers",
+    "age": 93,
+    "address": {
+        "street": "Patricia Vista",
+        "city": "South Jessicahaven",
+        "state": "North Carolina",
+        "zip": "76965"
+    },
+    "contact": {
+        "phone": "(578)564-1760x33874",
+        "servicePhone": "800176633"
+    },
+    "birthday": "1932-26-05",
+    "ip": "159.159.73.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute type main. Find attorney certain success everything anything. Outside necessary key usually statement purpose information.",
+        "bio": "No consider argue so mission wish. Project out structure least today."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
