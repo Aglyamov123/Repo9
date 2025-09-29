@@ -1,0 +1,25 @@
+{
+    "name": "Michele Skinner",
+    "age": 76,
+    "address": {
+        "street": "Stephen Extensions",
+        "city": "Garzafort",
+        "state": "Idaho",
+        "zip": "61638"
+    },
+    "contact": {
+        "phone": "792.203.7408",
+        "servicePhone": "800590740"
+    },
+    "birthday": "1949-04-04",
+    "ip": "95.144.254.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate accept show hair good focus offer. Trade subject too age response stage. Financial expect central good environmental finally. Drive avoid time prevent impact enough.",
+        "bio": "Treat wall a debate ready student. Then drug method expect address ready.\nManagement similar although far day large brother figure."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

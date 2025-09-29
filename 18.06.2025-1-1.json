@@ -1,0 +1,25 @@
+{
+    "name": "Amy Santos",
+    "age": 109,
+    "address": {
+        "street": "Rachel Village",
+        "city": "New Angela",
+        "state": "New York",
+        "zip": "38557"
+    },
+    "contact": {
+        "phone": "(775)275-2494x877",
+        "servicePhone": "800875060"
+    },
+    "birthday": "1916-25-12",
+    "ip": "124.190.136.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Car test near. Use billion two option west home.\nWould attorney goal list attack.\nCell sign bring not. Either within yourself behavior person customer. On card development.",
+        "bio": "Marriage save network she poor until option. Sister special mother minute especially tax. Customer special happy avoid."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
