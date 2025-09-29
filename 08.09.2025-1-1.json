@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Robert Bass DDS",
+    "age": 53,
+    "address": {
+        "street": "Giles Squares",
+        "city": "Michaelland",
+        "state": "Nevada",
+        "zip": "88265"
+    },
+    "contact": {
+        "phone": "340.848.1036x12745",
+        "servicePhone": "800833748"
+    },
+    "birthday": "1972-27-06",
+    "ip": "29.150.11.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice just energy politics phone. Religious some month.\nThree sister long. Speech long relate effect body brother value. Real laugh me.",
+        "bio": "A I event score. Fish no can save maintain. Professor pretty detail who record glass so."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
