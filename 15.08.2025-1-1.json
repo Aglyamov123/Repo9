@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Guerra",
+    "age": 11,
+    "address": {
+        "street": "Rhonda Oval",
+        "city": "Johnberg",
+        "state": "Arkansas",
+        "zip": "97087"
+    },
+    "contact": {
+        "phone": "(889)954-8605x90242",
+        "servicePhone": "800874371"
+    },
+    "birthday": "2014-03-04",
+    "ip": "107.66.234.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Back agency nearly. Should wear perform. Visit business process serious home.\nIndicate look guy born security use. Picture doctor physical party result. Herself letter standard contain side.",
+        "bio": "Surface begin audience for drop like. Build price behavior civil.\nEconomy person task common prevent. Make food century these."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

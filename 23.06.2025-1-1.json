@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Johnson",
+    "age": 6,
+    "address": {
+        "street": "Spencer Port",
+        "city": "New Jasonchester",
+        "state": "Alabama",
+        "zip": "90100"
+    },
+    "contact": {
+        "phone": "001-993-580-0956x341",
+        "servicePhone": "800357950"
+    },
+    "birthday": "2019-27-02",
+    "ip": "140.165.182.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Material visit writer successful sea meeting. Speak animal case total. Million arrive it many.\nCouple some after as Mrs. Middle smile room relate. List population rest your.",
+        "bio": "Stuff perhaps look new born. Subject either ago year.\nFinally cover true hear create hotel.\nFinally happen prove until politics site quality. Southern able single half together too. Law yeah cell."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

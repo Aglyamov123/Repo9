@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Rosario",
+    "age": 21,
+    "address": {
+        "street": "Eugene Burg",
+        "city": "Moorechester",
+        "state": "Washington",
+        "zip": "77854"
+    },
+    "contact": {
+        "phone": "3847259885",
+        "servicePhone": "800798834"
+    },
+    "birthday": "2004-05-09",
+    "ip": "178.34.219.12",
+    "foo": "bar",
+    "profile": {
+        "about": "No nice beautiful suffer. Range debate power paper. Affect relationship design wear position son.\nRadio ask page price better next campaign. Place course as fly share check. Poor my maintain there.",
+        "bio": "Site society result. Ground too simple while hotel note sea own. Could risk dog reflect stock politics technology."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
